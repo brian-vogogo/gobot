@@ -1,0 +1,11 @@
+{
+  "name": "gobot",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Vogogo Slack Bot",
+  "author": "Brian Low <brian.low@vogogo.com>",
+  "dependencies": {
+    "express": "4.12.2"
+  }
+}
+
